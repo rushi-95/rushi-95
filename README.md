@@ -14,4 +14,4 @@ I am working as  Data Analyst Intern at Gamaka AI Solutions
 Few tech that I enjoy working in areas Python,plotly,Seaborn,sklearn DAX,KPI and tensorflow. I am actively looking for opportunities in Data Science.
 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in coding , Machine Learning,deep learning,MYSQL,Power BI,Tabluea.
-- 🤝 Open for job in  analytics,data science and python
+- 🤝 Open for job in data science,data analytics and python
