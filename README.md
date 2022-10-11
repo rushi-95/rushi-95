@@ -15,3 +15,5 @@ Few tech that I enjoy working in areas Python,plotly,Seaborn,sklearn DAX,KPI and
 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in coding , Machine Learning,deep learning,MYSQL,Power BI,Tabluea.
 - 🤝 Open for job in data science,data analytics and python
+- 
+- Reach me:-rushikeshmagdum38@gmail.com
